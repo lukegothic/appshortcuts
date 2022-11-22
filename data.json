@@ -1,0 +1,13 @@
+[{
+    "description": "Play (toggle)",
+    "keys": ["Ctrl", "P"],
+    "category": "PLAY / PAUSE"
+}, {
+    "description": "Pause (toggle)",
+    "keys": ["Ctrl", "Shift", "P"],
+    "category": "PLAY / PAUSE"
+}, {
+    "description": "Step",
+    "keys": ["Ctrl", "Alt", "P"],
+    "category": "PLAY / PAUSE"
+}]
